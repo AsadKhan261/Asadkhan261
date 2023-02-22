@@ -9,15 +9,10 @@
 
 - 🔭 I’m currently working on **SponJobs App**  (<a href="https://play.google.com/store/apps/details?id=com.solodev.sponemployer" target="_blank"><u>Download Link</u></a>) 
 
-- 🌱 I’m currently learning **Google cloud**
-
 - 💬 Ask me about **  Firebase | Rest Apis | Flutter | Dart | Figma | Adobe XD **
 
 - 📫 How to reach me **Asadkhanasii009@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
@@ -27,7 +22,7 @@
   <a href="https://developer.android.com" target="_blank"> <img 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" 
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
 
