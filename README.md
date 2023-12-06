@@ -9,9 +9,8 @@
 
 
 
-- 🌱 I’m currently learning **Google cloud**
 
-- 💬 Ask me about **  Firebase | Rest Apis | Flutter | Dart | Figma | Adobe XD **
+- 💬 Ask me about **  Firebase | Rest Apis |Web Socket | Flutter | Dart | Figma | Adobe XD ** 
 
 - 📫 How to reach me **Asadkhanasii009@gmail.com**
 
