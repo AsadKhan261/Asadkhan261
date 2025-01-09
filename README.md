@@ -16,20 +16,5 @@
 - buy me a coffee  **https://www.buymeacoffee.com/asadkhan261**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadkhan261&show_icons=true&locale=en&layout=compact&langs_count=20" alt="Asadkhan261" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asadkhan261&show_icons=true&locale=en&count_private=true" alt="Asadkhan261" /></p><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asadkhan261&" alt="Asadkhan261" /></p>
-
-![](https://hit.yhype.me/github/profile?user_id=29094408)
 
